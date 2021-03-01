@@ -1,0 +1,18 @@
+// global
+.mb-10{margin-bottom: 10px !important;}
+.mb-20{margin-bottom: 20px !important;}
+
+.d-flex{display: flex; &.j-c {justify-content: center !important;} &.a-c {align-items: center !important;}}
+
+.page-title {
+    display: block !important;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10px;
+}
+
+.form-container {
+    padding: 20px 0px;
+    width: 400px;
+    margin: auto;
+}
